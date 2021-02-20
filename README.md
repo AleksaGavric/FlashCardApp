@@ -7,7 +7,7 @@ This app is the sceleton of a flashcard app which asks a question and you have t
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="FunctGIF.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
