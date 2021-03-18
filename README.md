@@ -6,7 +6,7 @@
 Flashcardd app which allows creating and saving cards!
 
 ### App Walk-though
-<img src="FunctGIFff" width=200><br>
+<img src="FunctGIFff.gif" width=200><br>
 
 ## Required
 - [x] User can create a card and still see their created card when the app is relaunched.
