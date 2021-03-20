@@ -25,6 +25,12 @@ Added features are adding new cards and a new window!
 
 ### App Walk-though
 
+The text displayed before any click tells the user if the the card they are looking at currently is displaying the questions or the answer.
+
+In this gif, saved from last session, I have cards "2" and "hello". The "NEXT" button selects a random card to display as the next one when pressed. The
+next card is sometimes the same when pressed "NEXT" becuase there is a certain chance for that in any finite set of randomly selected cards. Cards when created,
+can also deleted by pressing the button "DELETE".
+
 <img src="FunctGIFf.gif" width=200><br>
 
 ## Required
