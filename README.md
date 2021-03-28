@@ -7,7 +7,7 @@ Flashcard app with added animations!
 
 ### App Walk-though
 
-<img src="FunctGIFfff" width=200><br>
+<img src="FunctGIFfff.gif" width=200><br>
 
 ## Required
 - [x] User sees a transition animation when going from the main screen to the add card screen.
